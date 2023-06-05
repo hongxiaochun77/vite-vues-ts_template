@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Tab2/icon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-538.000000, -1468.000000)">
+            <g id="数量：-2" transform="translate(0.000000, 1460.000000)">
+                <g id="tab2：我的" transform="translate(522.000000, 8.000000)">
+                    <g id="Tab2/icon" transform="translate(16.000000, 0.000000)">
+                        <g id="编组-2" transform="translate(7.000000, 9.000000)">
+                            <rect id="矩形" fill="#666666" x="6.26315789" y="6.28985507" width="10.7368421" height="3" rx="1.5"></rect>
+                            <rect id="矩形" stroke="#666666" stroke-width="3" x="1.5" y="1.5" width="31" height="20.3623188" rx="3.57894737"></rect>
+                            <rect id="矩形" fill="#666666" x="15.2105263" y="23.3623188" width="3" height="5.39130435"></rect>
+                            <path d="M16.9275362,24.0591152 C17.7559634,24.0591152 18.4275362,24.7306881 18.4275362,25.5591152 L18.4275362,33.2959573 C18.4275362,34.1243844 17.7559634,34.7959573 16.9275362,34.7959573 C16.0991091,34.7959573 15.4275362,34.1243844 15.4275362,33.2959573 L15.4275362,25.5591152 C15.4275362,24.7306881 16.0991091,24.0591152 16.9275362,24.0591152 Z" id="矩形" fill="#666666" transform="translate(16.927536, 29.427536) rotate(-90.000000) translate(-16.927536, -29.427536) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
