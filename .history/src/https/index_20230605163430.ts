@@ -18,7 +18,7 @@ Service.interceptors.request.use((config:any) => {
 })
 Service.interceptors.response.use((response: AxiosResponse) => {
   return new Promise((resolve, reject) =>{
-    if(response.data.code == 0) { // 这里不一定都是0，结合后端返回的code值
+    if(response.data.code == 200) {
       resolve(response.data.data)
     } else {
       Toast(response.data.message)
